@@ -1,4 +1,4 @@
-# 20.02.06.2020-Validation-HTML-Heplers
+# 20.02.06.2020-Validation-HTML-Heplers-Areas
 
 ## Tapşırıq.
 
